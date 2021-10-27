@@ -21,7 +21,7 @@ Create a piano player with DOM events in JavaScript for the "Happy Birthday" son
 
 ## Launch
 
-Play the Piano Game here: marisabrantley.github.io/piano-game/.
+Play the Piano Game here: https://marisabrantley.github.io/piano-game/
 
 ## Class
 
